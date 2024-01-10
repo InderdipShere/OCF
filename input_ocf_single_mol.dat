@@ -1,0 +1,4 @@
+Lammps_traj.txt, 9, 0, 2    !!... TRAJFILE, HEAD, TAIL, COL_SKIP
+5, 0            !!... NTRAJ, NSKIP 
+165             !!... NATOM
+157, 158        !!... ATOM_A, ATOM_B
